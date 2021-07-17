@@ -43,4 +43,4 @@ async def add(ctx,arg):
 
 				
 
-bot.run("ODY1OTg1Mjk1MTk0OTE0ODI2.YPL9pw.g42EMLzOPVCnO_nJ-Vn_zBmevS0") 
+bot.run(process.env.TOKEN) 
